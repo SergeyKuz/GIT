@@ -4,6 +4,7 @@
 public class ClassDima {
     public Double height;
     public Double weight;
+    public static String weapon = "WEAPON";
 
     public ClassDima(Double height, Double weight) {
         this.height = height;
