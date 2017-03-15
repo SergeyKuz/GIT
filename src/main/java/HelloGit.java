@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Вова программирует");
         System.out.println("Дима программирует");
+        ClassVova classVova = new ClassVova(170.0, 84.0);
     }
 }
